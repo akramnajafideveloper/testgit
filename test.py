@@ -1,3 +1,3 @@
 print("hello")
-print("aaaaaaaaaaaaaaaaaaaaygbygbygbg a")
+print("a")
 
